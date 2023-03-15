@@ -1,0 +1,19 @@
+{
+    "@react-native-async-storage/async-storage": "^1.15.9",
+    "@react-native-community/netinfo": "^5.9.6",
+    "@react-native-community/push-notification-ios": "^1.10.1",
+    "@react-native-firebase/app": "^12.9.0",
+    "@react-native-firebase/messaging": "^12.9.0",
+    "@react-navigation/native": "^6.0.2",
+    "@react-navigation/stack": "^6.0.7",
+    "react-native-fs": "^2.20.0",
+    "react-native-modal": "^13.0.0",
+    "react-native-notification-banner": "^2.0.0",
+    "react-native-paper": "^4.9.2",
+    "react-native-permissions": "^3.2.0",
+    "react-native-push-notification": "^7.1.0",
+    "react-native-vector-icons": "^8.1.0",
+    "react-native-webview": "../rn-magis-webview",
+    "rn-fetch-blob": "^0.12.0",
+    "sync-storage": "^0.4.2"
+  }
